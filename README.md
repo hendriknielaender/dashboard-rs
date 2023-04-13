@@ -1,0 +1,2 @@
+# dashboard-rs
+leptos + tailwind
